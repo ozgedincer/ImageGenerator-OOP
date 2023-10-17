@@ -33,7 +33,7 @@ namespace ImageGenerator.Controllers
                 N = viewModel.ImageCount,
                 Size = StaticValues.ImageStatics.Size.Size512,
                 ResponseFormat = StaticValues.ImageStatics.ResponseFormat.Url,
-                User = "Cengizhan"
+                User = "Ozge"
             });
 
             List<string> urls;
